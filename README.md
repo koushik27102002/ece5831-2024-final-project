@@ -1,4 +1,4 @@
-### ece5831-2024-final-project
+## ece5831-2024-final-project
 
 ### Pre-recorded presentation video
 https://drive.google.com/file/d/1QIl0HIcoBUN5s5IBSRysDJlx4bCwe1k_/view?usp=drive_link
