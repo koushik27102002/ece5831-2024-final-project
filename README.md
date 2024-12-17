@@ -3,6 +3,7 @@ The information age has paved the way to social media which has enabled humans a
 
 ### Pre-recorded presentation video
 https://drive.google.com/file/d/1QIl0HIcoBUN5s5IBSRysDJlx4bCwe1k_/view?usp=drive_link
+( During the video presentation my teammate video was visible but mine is not visible due to some technical issue. )
 
 ### Presentation slides
 https://docs.google.com/presentation/d/1Ym8iEfR-CXPW37-ocURMUkJeKEOZBXaO/edit?usp=drive_link&ouid=106926004159194001425&rtpof=true&sd=true
